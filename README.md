@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # number-of-ways-to-make-change
 
+Difficulty: medium
 
   Given an array of distinct positive integers representing coin denominations and a
   single non-negative integer n representing a target amount of
